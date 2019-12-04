@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Enemy
+  - Invincibility Item
+  - Health Item
+  - Bullet Speed Item
+  - Dash Speed Item
+  - Level Controller
+  - Boss
+  - Sword Item
+  - Boots Item
+  - Double Shot Item
+  - Speed Shot Item
+  - Shield Item
+  - Spiked Wall
+  - Shuriken
+  - Explosive Powder Item
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Player
+  - Wall
+  - Sword
+  - Spiked Wall
+  - Shuriken
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3196801533
+    locked: 0
+  - name: Walls
+    uniqueID: 432685593
+    locked: 0
+  - name: Items
+    uniqueID: 2141704683
+    locked: 0
+  - name: Characters
+    uniqueID: 329411313
+    locked: 0
